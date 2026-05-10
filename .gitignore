@@ -40,3 +40,4 @@ coverage/
 *.local
 .cache/
 .vercel/
+.claude/
